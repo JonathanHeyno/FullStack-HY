@@ -1,1 +1,9 @@
 node_modules
+**/__pycache__
+**/db.sqlite3
+*~
+**/.env
+**/venv
+.coverage
+*.UNDER_CONSTRUCTION
+*.BACKUP
