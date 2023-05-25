@@ -1,0 +1,16 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+.eslintrc.js
+**/__pycache__
+**/db.sqlite3
+*~
+**/.env
+**/venv
+.coverage
+*.UNDER_CONSTRUCTION
+*.BACKUP
+
+# Ignore all HTML files:
+*.html
